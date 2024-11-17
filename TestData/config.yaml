@@ -11,3 +11,5 @@ username_locator : 'user-name'
 password_locator : 'password'
 
 login_button_locator : 'login-button'
+
+new
